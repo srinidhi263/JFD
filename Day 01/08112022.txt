@@ -1,0 +1,6 @@
+8/11/2022
+Introduction to github annd gitbash
+Learnt how to create and add directories as a repository
+Learnt how to add repositories in github 
+introduction to basic linux commands.
+
