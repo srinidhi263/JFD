@@ -1,0 +1,28 @@
+TOPICS COVERED
+java string methods
+regEx
+multithreading
+java reflection
+date format
+conventions
+collections
+list
+jdbc
+internalisation
+threads
+synchronization
+runtime & compiletime polymorphism
+API
+enum
+linked list
+hash map
+hash set
+lambda
+file handling
+
+ task :mini project :NykaaApp
+
+
+
+
+
