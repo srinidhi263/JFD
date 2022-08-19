@@ -1,0 +1,17 @@
+Topics covered
+-mysql
+  DML
+  DDL
+-JDBC
+  prepare statement
+  database connectivity
+-maven
+-git
+
+
+Tasks
+joins
+-inner
+-outer
+-left
+-right
