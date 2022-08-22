@@ -1,0 +1,17 @@
+Mini prjct - Java- Todo
+Spring basics
+tightly coupled
+loosely coupled
+component and auto wired
+primary
+constructor and setter injection
+autowiring by name
+qualifier
+bean scope
+complex scope
+component scan
+lifecycle of a bean
+cdi
+without spring boot
+xml configuration
+git branching
