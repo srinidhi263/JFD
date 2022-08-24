@@ -1,4 +1,4 @@
-package com.nseit.spring_boot_todo.Model;
+package com.nseit.spring_boot_todo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

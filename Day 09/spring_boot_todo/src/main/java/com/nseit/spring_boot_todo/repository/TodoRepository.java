@@ -1,6 +1,6 @@
-package com.nseit.spring_boot_todo.Repository;
+package com.nseit.spring_boot_todo.repository;
 
-import com.nseit.spring_boot_todo.Model.Todo;
+import com.nseit.spring_boot_todo.model.Todo;
 import lombok.Getter;
 import org.springframework.stereotype.Repository;
 
