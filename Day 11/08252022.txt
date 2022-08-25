@@ -1,0 +1,11 @@
+Topics:
+-webfles
+-reactive mongo
+-reactive flex
+  >flex
+  >mono
+-JPA entity relationship
+
+
+tasks covered:
+- program using JPA entity relationship
