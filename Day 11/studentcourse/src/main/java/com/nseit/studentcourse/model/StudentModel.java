@@ -19,5 +19,10 @@ public class StudentModel {
     private String name;
     private Integer rollNumber;
     private Integer age;
-    private List<CourseModel> courseModels;
+    @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    @JoinTable(name = "student_course",
+            joinColumns = @JoinColumn(name = "student_id", referencedColumnName = "id"),
+            inverseJoinColumns = @JoinColumn(name = "course_id",
+                    referencedColumnName = "id"))
+    private List<CourseModel> course;
 }

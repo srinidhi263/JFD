@@ -19,5 +19,5 @@ public class CourseModel {
     private String courseName;
     private Integer duration;
     @ManyToMany(mappedBy = "course")
-    private List<StudentModel> studentModels;
+    private List<StudentModel> student;
 }
