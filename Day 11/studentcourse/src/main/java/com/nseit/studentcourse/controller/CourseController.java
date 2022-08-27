@@ -16,6 +16,7 @@ public class CourseController {
 
     @PostMapping
     public void addCourse(@RequestBody CourseModel courseModel) {
+
         courseService.addCourse(courseModel);
     }
 
@@ -31,6 +32,7 @@ public class CourseController {
 
     @DeleteMapping("/{id}")
     public void deleteCourse(@PathVariable int id) {
+
         courseService.deleteCourse(id);
     }
 }

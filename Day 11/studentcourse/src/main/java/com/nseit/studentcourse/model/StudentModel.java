@@ -15,6 +15,7 @@ import java.util.List;
 public class StudentModel {
     @Id
     @GeneratedValue
+
     private Integer id;
     private String name;
     private Integer rollNumber;
